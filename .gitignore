@@ -1,0 +1,6 @@
+/target/
+/storage/*
+!/storage/.gitkeep
+.env
+.env.*
+!.env.example
